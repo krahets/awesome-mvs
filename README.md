@@ -18,14 +18,19 @@ Please visit [awesome-computer-vision](https://github.com/jbhuang0604/awesome-co
 ## Tutorial
 
 - [Multi-View Stereo: A Tutorial](https://drive.google.com/open?id=1rPHk0dyAfjh-1wu-wQShFm-qtiUScPxz). Y. Furukawa, C. Hernández. Foundations and Trends® in Computer Graphics and Vision, 2015.
+
 - [Multiple view geometry in computer vision](https://cseweb.ucsd.edu/classes/sp13/cse252B-a/HZ2eCh2.pdf). Hartley, Richard, and Andrew Zisserman. Cambridge university press, 2003.
 
 ## Survey
 
 - [A comparison and evaluation of multi-view stereo reconstruction algorithms](http://vision.middlebury.edu/mview/seitz_mview_cvpr06.pdf). Seitz, Steven M., et al. CVPR 2006.
+
 - [On benchmarking camera calibration and multi-view stereo for high resolution imagery](https://infoscience.epfl.ch/record/126393/files/strecha_cvpr_2008.pdf). Strecha, Christoph, et al. CVPR 2008.
+
 - [State of the art in high density image matching](https://www.researchgate.net/publication/263465866_State_of_the_art_in_high_density_image_matching﻿). F. Remondino, M.G. Spera, E. Nocerino, F. Menna, F. Nex . The Photogrammetric Record 2014.
+
 - [Deep Learning for Multi-View Stereo via Plane Sweep: A Survey](https://arxiv.org/pdf/2106.15328.pdf). Zhu, Qingtian, et al. arXiv 2021.
+
 - [Multi-view stereo in the Deep Learning Era: A comprehensive review](https://www.sciencedirect.com/science/article/pii/S0141938221001062?casa_token=i7-AyFnsLKgAAAAA:aMaW0BsbyrBe2ZVySisLTn6A-9aNc6Nk6I6k4JTKFdjR8wQznyi4VrCquaf5kN1tRwtiifh14Q). Wang, Xiang, et al. Displays 2021.
 
 ## Paper
@@ -37,11 +42,13 @@ Please visit [awesome-computer-vision](https://github.com/jbhuang0604/awesome-co
 > Stereo Matching
 
 - [Stereo Processing by Semiglobal Matching and Mutual Information](https://elib.dlr.de/55367/1/Stereo_Processing-Hirschm%C3%BCller.pdf). Hirschmuller, Heiko. PAMI 2007.
+
 - [Patchmatch stereo-stereo matching with slanted support windows](http://imagine.enpc.fr/~de-la-gm/cours/UPEM/projects/PatchMatch%20Stereo%20-%20Stereo%20Matching%20with%20Slanted%20Support%20Windows.pdf). Bleyer, M., Rhemann, C., & Rother, C. BMVC 2011.
 
 > Geometry-Based
 
 - [Multi-view stereo revisited](https://grail.cs.washington.edu/wp-content/uploads/2015/08/Goesele-2006-MSR.pdf). Goesele, Michael, Brian Curless, and Steven M. Seitz. CVPR 2006.
+
 - [Multi-view stereo for community photo collections](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.146.2530&rep=rep1&type=pdf). Goesele, Michael, et al. ICCV 2007.
 
 - [Using multiple hypotheses to improve depth-maps for multi-view stereo](https://link.springer.com/content/pdf/10.1007/978-3-540-88682-2_58.pdf). Campbell, Neill DF, et al. ECCV 2008.
@@ -149,6 +156,8 @@ Please visit [awesome-computer-vision](https://github.com/jbhuang0604/awesome-co
 - [Reliable surface reconstruction from multiple range images](https://link.springer.com/content/pdf/10.1007/BFb0015528.pdf). Hilton, Adrian, et al. ECCV 1996.
 
 - [Consensus surfaces for modeling 3D objects from multiple range images](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.43.9546&rep=rep1&type=pdf). Wheeler, Mark D., Yoichi Sato, and Katsushi Ikeuchi. ICCV 1998.
+
+- [A Theory of Shape by Space Carving](https://www.cs.toronto.edu/~kyros/pubs/00.ijcv.carve.pdf). Kiriakos N. Kutulakos, S. Seitz. IJCV 2000.
 
 - [Robust and adaptive integration of multiple range images with photometric attributes](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.61.2050&rep=rep1&type=pdf). Sagawa, Ryusuke, Ko Nishino, and Katsushi Ikeuchi. CVPR 2001.
 
