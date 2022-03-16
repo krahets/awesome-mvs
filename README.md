@@ -6,14 +6,19 @@ Please visit [awesome-computer-vision](https://github.com/jbhuang0604/awesome-co
 
 ## Contents
 
-- [Tutorial](#Tutorial)
-- [Survey](#Survey)
-- [Paper](#Paper)
-- [Benchmark](#Benchmark)
-- [Open Source](#Open-Source)
-- [Commercial Software](#Commercial-Software)
-- [License](#License)
-- [Contribution](#Contribution)
+- [Tutorial](#tutorial)
+- [Survey](#survey)
+- [Paper](#paper)
+- [Multi-View Stereo](#multi-view-stereo)
+    - [Depth Map & Point Cloud Methods](#depth-map--point-cloud-methods)
+    - [Volumetric & Implicit Methods](#volumetric--implicit-methods)
+- [Mesh Texturing](#mesh-texturing)
+- [Viewpoints and Trajectory Optimization](#viewpoints-and-trajectory-optimization)
+- [Benchmark](#benchmark)
+- [Open Source](#open-source)
+- [Commercial Software](#commercial-software)
+- [License](#license)
+- [Contribution](#contribution)
 
 ## Tutorial
 
@@ -236,6 +241,8 @@ Please visit [awesome-computer-vision](https://github.com/jbhuang0604/awesome-co
 - [**BlendedMVS**: A large-scale dataset for generalized multi-view stereo networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yao_BlendedMVS_A_Large-Scale_Dataset_for_Generalized_Multi-View_Stereo_Networks_CVPR_2020_paper.pdf). Yao, Yao, et al. CVPR 2020.
 
 - [**GigaMVS**: A Benchmark for Ultra-large-scale Gigapixel-level 3D Reconstruction](https://www.computer.org/csdl/journal/tp/5555/01/09547729/1x9Tv1542aY). Zhang, Jianing, et al. PAMI 2021.
+
+- [Multi-sensor large-scale dataset for multi-view 3D reconstruction](https://arxiv.org/pdf/2203.06111.pdf). Oleg Voynov, etal. CVPR 2022.
 
 ## Open Source
 
