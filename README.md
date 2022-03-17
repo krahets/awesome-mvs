@@ -132,7 +132,9 @@ Please visit [awesome-computer-vision](https://github.com/jbhuang0604/awesome-co
 
 - [Deep multi-view stereo gone wild](https://arxiv.org/pdf/2104.15119.pdf). Darmon, François, et al. 3DV 2021.
 
-- [Generalized Binary Search Network for Highly-Efficient Multi-View Stereo](https://www.semanticscholar.org/paper/c88fc58d7e0f58008738d8844f6452faa4a5bbca). Zhenxing Mi, Di Chang, Dan Xu. arXiv 2021.
+- [Generalized Binary Search Network for Highly-Efficient Multi-View Stereo](https://arxiv.org/pdf/2112.02338.pdf). Zhenxing Mi, Di Chang, Dan Xu. CVPR 2022.
+
+- [Rethinking Depth Estimation for Multi-View Stereo: A Unified Representation](https://arxiv.org/pdf/2201.01501.pdf). Rui Peng, et al. CVPR 2022.
 
 > Unsurpervised Learning
 
