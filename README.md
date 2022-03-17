@@ -272,4 +272,4 @@ MIT
 
 ## Contribution
 
-Welcome to create a pull request. Please ensure your pull request adheres the formats.
+Welcome to contribution!
