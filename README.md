@@ -164,14 +164,6 @@ Please visit [awesome-computer-vision](https://github.com/jbhuang0604/awesome-co
 
 - [A Theory of Shape by Space Carving](https://www.cs.toronto.edu/~kyros/pubs/00.ijcv.carve.pdf). Kiriakos N. Kutulakos, S. Seitz. IJCV 2000.
 
-- [Robust and adaptive integration of multiple range images with photometric attributes](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.61.2050&rep=rep1&type=pdf). Sagawa, Ryusuke, Ko Nishino, and Katsushi Ikeuchi. CVPR 2001.
-
-- [Object shape modelling from multiple range images by matching signed distance fields](https://ieeexplore.ieee.org/abstract/document/1024099). T. Masuda. Symposium on 3D Data Processing Visualization and Transmission, 2002.
-
-- [The marching intersections algorithm for merging range images](https://d1wqtxts1xzle7.cloudfront.net/53312350/mi_for_fusion.pdf?1496039465=&response-content-disposition=inline%3B+filename%3DThe_Marching_Intersections_Algorithm_for.pdf&Expires=1644514270&Signature=APoQxsfNahoJH9H2uUdzxaLqlYGqt1a5aK0mUj5rRECOEsc-3d807dmUtE224HJqKSoO~URpm-K4OwKvnrvBxtSX1ApMGfKrzECFI4OYfKVeJbGf0qGa7DbXLIkzuq7yQKJCfBFzY~8Kmd~IXzwk0eKZgSGiS9QKRbk-bFpKlGJpG7ikY2iqgShA4X5HOK4gPN7Yzauay9dbyoaAcvt-jvvs-6X6IztwqEnvSLIczlHZ65fPn0SF39fO2IMzYvhLdEKRfd9cZ1CqobTWQ1wRW8iHYluQQ14J-hOmps82iOGHeE-LGiQjU~NuiPWe1MQ2gUk7DHj~DWGtsFUdA0ly5Q__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA). C. Rocchini, P. Cignoni, F. Ganovelli, C. Montani, P. Pingi, R. Scopigno. Visual Comput 2004.
-
-- [A volumetric fusion technique for surface reconstruction from silhouettes and range data](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.329.8153&rep=rep1&type=pdf). Comput. Y. Yemez, C.J. Wetherilt. Vision Image Understand 2007.
-
 - [KinectFusion: Real-time dense surface mapping and tracking](https://www.semanticscholar.org/paper/e2975deb809f35bd47ac3de34e348675a0cfb3f6). Richard A. Newcombe, S. Izadi, Otmar Hilliges, D. Molyneaux, David Kim, A. Davison, P. Kohli, J. Shotton, Steve Hodges, A. Fitzgibbon. ISMAR 2011.
 
 - [Real-time 3D reconstruction at scale using voxel hashing](http://graphics.stanford.edu/~niessner/papers/2013/4hashing/niessner2013hashing.pdf). M. Nießner, M. Zollhöfer, S. Izadi, M. Stamminger. ACM Trans. Graph 2013.
