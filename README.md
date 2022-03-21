@@ -264,4 +264,4 @@ MIT
 
 ## Contribution
 
-Welcome to contribution!
+Welcome contribution!
