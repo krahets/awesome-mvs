@@ -4,14 +4,16 @@ A curated list of tutorials, papers, software related to multi-view stereo.
 
 Please visit [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) for a more generic computer vision list.
 
-## Contents
+## Table of Contents
 
-- [Tutorial](#tutorial)
 - [Survey](#survey)
 - [Paper](#paper)
-    - [Multi-View Stereo](#multi-view-stereo)
-    - [Mesh Texturing](#mesh-texturing)
-    - [Viewpoints and Trajectory Optimization](#viewpoints-and-trajectory-optimization)
+  - [Multi-View Stereo](#multi-view-stereo)
+    - [Depth-Map Representation](#depth-map-representation)
+    - [Volumetric Representation](#volumetric-representation)
+    - [Neural Implicit Representation](#neural-implicit-representation)
+  - [Mesh Texturing](#mesh-texturing)
+  - [Viewpoints and Trajectory Optimization](#viewpoints-and-trajectory-optimization)
 - [Benchmark](#benchmark)
 - [Open Source](#open-source)
 - [Commercial Software](#commercial-software)
@@ -40,15 +42,9 @@ Please visit [awesome-computer-vision](https://github.com/jbhuang0604/awesome-co
 
 ### Multi-View Stereo
 
-#### Depth Map & Point Cloud Methods
+#### Depth-Map Representation
 
-> Stereo Matching
-
-- [Stereo Processing by Semiglobal Matching and Mutual Information](https://elib.dlr.de/55367/1/Stereo_Processing-Hirschm%C3%BCller.pdf). Hirschmuller, Heiko. PAMI 2007.
-
-- [Patchmatch stereo-stereo matching with slanted support windows](http://imagine.enpc.fr/~de-la-gm/cours/UPEM/projects/PatchMatch%20Stereo%20-%20Stereo%20Matching%20with%20Slanted%20Support%20Windows.pdf). Bleyer, M., Rhemann, C., & Rother, C. BMVC 2011.
-
-> Geometry-Based
+> Geometry-Based Methods
 
 - [Multi-view stereo revisited](https://grail.cs.washington.edu/wp-content/uploads/2015/08/Goesele-2006-MSR.pdf). Goesele, Michael, Brian Curless, and Steven M. Seitz. CVPR 2006.
 
@@ -63,8 +59,6 @@ Please visit [awesome-computer-vision](https://github.com/jbhuang0604/awesome-co
 - [Accurate, Dense, and Robust Multiview Stereopsis](http://www.cs.wustl.edu/~furukawa/papers/pami08a.pdf). Y. Furukawa, J. Ponce. CVPR 2007. PAMI 2010.
 
 - [Multi-view reconstruction preserving weakly-supported surfaces](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.225.6187&rep=rep1&type=pdf). Jancosek, Michal, and Tomás Pajdla. CVPR 2011.
-
-- [DAISY: An efficient dense descriptor applied to wide-baseline stereo](https://infoscience.epfl.ch/record/138785/files/tola_daisy_pami_1.pdf). Tola, Engin, Vincent Lepetit, and Pascal Fua. PAMI 2009.
 
 - [Efficient large-scale multi-view stereo for ultra high-resolution image sets](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.225.6187&rep=rep1&type=pdf). Tola, Engin, Christoph Strecha, and Pascal Fua. MVA 2012.
 
@@ -136,6 +130,10 @@ Please visit [awesome-computer-vision](https://github.com/jbhuang0604/awesome-co
 
 - [Rethinking Depth Estimation for Multi-View Stereo: A Unified Representation](https://arxiv.org/pdf/2201.01501.pdf). Rui Peng, et al. CVPR 2022.
 
+- [MVSTER: Epipolar Transformer for Efficient Multi-View Stereo](https://arxiv.org/pdf/2204.07346.pdf). Xiaofen Wang, et al. ArXiv 2022.
+
+- [TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers](https://arxiv.org/pdf/2111.14600.pdf). Yikang Ding, et al. ArXiv 2022.
+
 > Unsurpervised Learning
 
 - [Learning unsupervised multi-view stereopsis via robust photometric consistency](https://arxiv.org/pdf/1905.02706.pdf). Khot, Tejas, et al. arXiv 2019.
@@ -150,11 +148,11 @@ Please visit [awesome-computer-vision](https://github.com/jbhuang0604/awesome-co
 
 - [Digging into Uncertainty in Self-supervised Multi-view Stereo](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Digging_Into_Uncertainty_in_Self-Supervised_Multi-View_Stereo_ICCV_2021_paper.pdf). Xu, Hongbin, et al. ICCV 2021.
 
-- [NerfingMVS: Guided optimization of neural radiance fields for indoor multi-view stereo](https://openaccess.thecvf.com/content/ICCV2021/papers/Wei_NerfingMVS_Guided_Optimization_of_Neural_Radiance_Fields_for_Indoor_Multi-View_ICCV_2021_paper.pdf). Wei, Yi, et al. ICCV 2021.
+- [RC-MVSNet: Unsupervised Multi-View Stereo with Neural Rendering](https://arxiv.org/pdf/2203.03949.pdf). Di Chang, et al. ArXiv 2022.
 
-#### Volumetric & Implicit Methods
+#### Volumetric Representation
 
-> Geometry-Based
+> Geometry-Based Methods
 
 - [A volumetric method for building complex models from range images](https://dl.acm.org/doi/pdf/10.1145/237170.237269?casa_token=VkAZIffR2GUAAAAA:uWqJ8-28go2eXT0yNn03w17uggY0FtN-jix-Ln1uR5oWm5e6gM6L_zqJtcVsIUH0YOoM1k9FmmI). Curless, Brian, and Marc Levoy. PACMCGIT 1996.
 
@@ -170,7 +168,7 @@ Please visit [awesome-computer-vision](https://github.com/jbhuang0604/awesome-co
 
 - [BundleFusion: real-time globally consistent 3D reconstruction using on-the-fly surface re-integration](https://arxiv.org/pdf/1604.01093.pdf). Angela Dai, M. Nießner, M. Zollhöfer, S. Izadi, C. Theobalt. TOGS 2016.
 
-> Learning-Based
+> Learning-Based Methods
 
 - [Learning a multi-view stereo machine](https://proceedings.neurips.cc/paper/2017/file/9c838d2e45b2ad1094d42f4ef36764f6-Paper.pdf). Kar, Abhishek, Christian Häne, and Jitendra Malik. NeuralIPS 2017.
 
@@ -184,19 +182,25 @@ Please visit [awesome-computer-vision](https://github.com/jbhuang0604/awesome-co
 
 - [SurfaceNet+: An end-to-end 3D neural network for very sparse multi-view stereopsis](https://arxiv.org/pdf/2005.12690.pdf?ref=https://githubhelp.com). Ji, Mengqi, et al. PAMI 2020.
 
-- [Differentiable Volumetric Rendering: Learning implicit 3d representations without 3d supervision](https://openaccess.thecvf.com/content_CVPR_2020/papers/Niemeyer_Differentiable_Volumetric_Rendering_Learning_Implicit_3D_Representations_Without_3D_Supervision_CVPR_2020_paper.pdf). Niemeyer, Michael, et al. CVPR 2020.
-
-- [Multiview neural surface reconstruction by disentangling geometry and appearance](https://proceedings.neurips.cc/paper/2020/file/1a77befc3b608d6ed363567685f70e1e-Paper.pdf). Yariv, Lior, et al. NeuralIPS 2020.
-
 - [NeuralRecon: Real-time coherent 3D reconstruction from monocular video](http://openaccess.thecvf.com/content/CVPR2021/papers/Sun_NeuralRecon_Real-Time_Coherent_3D_Reconstruction_From_Monocular_Video_CVPR_2021_paper.pdf). Sun, Jiaming, et al. CVPR 2021.
 
 - [NeuralFusion: Online depth fusion in latent space](https://openaccess.thecvf.com/content/CVPR2021/papers/Weder_NeuralFusion_Online_Depth_Fusion_in_Latent_Space_CVPR_2021_paper.pdf). Weder, Silvan, et al. CVPR 2021.
+
+#### Neural Implicit Representation
+
+- [Differentiable Volumetric Rendering: Learning implicit 3d representations without 3d supervision](https://openaccess.thecvf.com/content_CVPR_2020/papers/Niemeyer_Differentiable_Volumetric_Rendering_Learning_Implicit_3D_Representations_Without_3D_Supervision_CVPR_2020_paper.pdf). Niemeyer, Michael, et al. CVPR 2020.
+
+- [Multiview neural surface reconstruction by disentangling geometry and appearance](https://proceedings.neurips.cc/paper/2020/file/1a77befc3b608d6ed363567685f70e1e-Paper.pdf). Yariv, Lior, et al. NeuralIPS 2020.
 
 - [UNISURF: Unifying neural implicit surfaces and radiance fields for multi-view reconstruction](https://openaccess.thecvf.com/content/ICCV2021/papers/Oechsle_UNISURF_Unifying_Neural_Implicit_Surfaces_and_Radiance_Fields_for_Multi-View_ICCV_2021_paper.pdf). Oechsle, Michael, Songyou Peng, and Andreas Geiger. ICCV 2021.
 
 - [NeuS: Learning neural implicit surfaces by volume rendering for multi-view reconstruction](https://arxiv.org/pdf/2106.10689.pdf). Wang, Peng, et al. arXiv 2021.
 
 - [Volume rendering of neural implicit surfaces](https://proceedings.neurips.cc/paper/2021/file/25e2a30f44898b9f3e978b1786dcd85c-Paper.pdf). Yariv, Lior, et al. NeuralIPS 2021.
+
+- [NerfingMVS: Guided optimization of neural radiance fields for indoor multi-view stereo](https://openaccess.thecvf.com/content/ICCV2021/papers/Wei_NerfingMVS_Guided_Optimization_of_Neural_Radiance_Fields_for_Indoor_Multi-View_ICCV_2021_paper.pdf). Wei, Yi, et al. ICCV 2021.
+
+- [Neural 3D Scene Reconstruction with the Manhattan-world Assumption](https://arxiv.org/pdf/2205.02836.pdf), Haoyu Guo, et al. CVPR 2022.
 
 ### Mesh Texturing
 
@@ -234,7 +238,7 @@ Please visit [awesome-computer-vision](https://github.com/jbhuang0604/awesome-co
 
 - [**GigaMVS**: A Benchmark for Ultra-large-scale Gigapixel-level 3D Reconstruction](https://www.computer.org/csdl/journal/tp/5555/01/09547729/1x9Tv1542aY). Zhang, Jianing, et al. PAMI 2021.
 
-- [Multi-sensor large-scale dataset for multi-view 3D reconstruction](https://arxiv.org/pdf/2203.06111.pdf). Oleg Voynov, etal. CVPR 2022.
+- [Multi-sensor large-scale dataset for multi-view 3D reconstruction](https://arxiv.org/pdf/2203.06111.pdf). Oleg Voynov, etal. ArXiv 2022.
 
 ## Open Source
 
