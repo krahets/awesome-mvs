@@ -32,7 +32,7 @@ Please visit [awesome-computer-vision](https://github.com/jbhuang0604/awesome-co
 
 - [On benchmarking camera calibration and multi-view stereo for high resolution imagery](https://infoscience.epfl.ch/record/126393/files/strecha_cvpr_2008.pdf). Strecha, Christoph, et al. CVPR 2008.
 
-- [State of the art in high density image matching](https://www.researchgate.net/publication/263465866_State_of_the_art_in_high_density_image_matching﻿). F. Remondino, M.G. Spera, E. Nocerino, F. Menna, F. Nex . The Photogrammetric Record 2014.
+- [State of the art in high density image matching](https://www.researchgate.net/publication/263465866_State_of_the_art_in_high_density_image_matching). F. Remondino, M.G. Spera, E. Nocerino, F. Menna, F. Nex . The Photogrammetric Record 2014.
 
 - [Deep Learning for Multi-View Stereo via Plane Sweep: A Survey](https://arxiv.org/pdf/2106.15328.pdf). Zhu, Qingtian, et al. arXiv 2021.
 
@@ -186,6 +186,8 @@ Please visit [awesome-computer-vision](https://github.com/jbhuang0604/awesome-co
 
 - [NeuralFusion: Online depth fusion in latent space](https://openaccess.thecvf.com/content/CVPR2021/papers/Weder_NeuralFusion_Online_Depth_Fusion_in_Latent_Space_CVPR_2021_paper.pdf). Weder, Silvan, et al. CVPR 2021.
 
+- [PlanarRecon: Real-time 3D Plane Detection and Reconstruction from Posed Monocular Videos](https://arxiv.org/pdf/2206.07710.pdf). Yuming Xie. CVPR 2022.
+
 #### Neural Implicit Representation
 
 - [Differentiable Volumetric Rendering: Learning implicit 3d representations without 3d supervision](https://openaccess.thecvf.com/content_CVPR_2020/papers/Niemeyer_Differentiable_Volumetric_Rendering_Learning_Implicit_3D_Representations_Without_3D_Supervision_CVPR_2020_paper.pdf). Niemeyer, Michael, et al. CVPR 2020.
@@ -200,7 +202,9 @@ Please visit [awesome-computer-vision](https://github.com/jbhuang0604/awesome-co
 
 - [NerfingMVS: Guided optimization of neural radiance fields for indoor multi-view stereo](https://openaccess.thecvf.com/content/ICCV2021/papers/Wei_NerfingMVS_Guided_Optimization_of_Neural_Radiance_Fields_for_Indoor_Multi-View_ICCV_2021_paper.pdf). Wei, Yi, et al. ICCV 2021.
 
-- [Neural 3D Scene Reconstruction with the Manhattan-world Assumption](https://arxiv.org/pdf/2205.02836.pdf), Haoyu Guo, et al. CVPR 2022.
+- [Neural 3D Scene Reconstruction with the Manhattan-world Assumption](https://arxiv.org/pdf/2205.02836.pdf). Haoyu Guo, et al. CVPR 2022.
+
+- [Neural 3D Reconstruction in the Wild](https://arxiv.org/pdf/2205.12955.pdf). Jiaming Sun, et al. Siggraph 2022.
 
 ### Mesh Texturing
 
