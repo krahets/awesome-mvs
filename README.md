@@ -196,7 +196,7 @@ Please visit [awesome-computer-vision](https://github.com/jbhuang0604/awesome-co
 
 - [UNISURF: Unifying neural implicit surfaces and radiance fields for multi-view reconstruction](https://openaccess.thecvf.com/content/ICCV2021/papers/Oechsle_UNISURF_Unifying_Neural_Implicit_Surfaces_and_Radiance_Fields_for_Multi-View_ICCV_2021_paper.pdf). Oechsle, Michael, Songyou Peng, and Andreas Geiger. ICCV 2021.
 
-- [NeuS: Learning neural implicit surfaces by volume rendering for multi-view reconstruction](https://arxiv.org/pdf/2106.10689.pdf). Wang, Peng, et al. arXiv 2021.
+- [NeuS: Learning neural implicit surfaces by volume rendering for multi-view reconstruction](https://arxiv.org/pdf/2106.10689.pdf). Wang, Peng, et al. NeuralIPS 2021.
 
 - [Volume rendering of neural implicit surfaces](https://proceedings.neurips.cc/paper/2021/file/25e2a30f44898b9f3e978b1786dcd85c-Paper.pdf). Yariv, Lior, et al. NeuralIPS 2021.
 
@@ -204,7 +204,7 @@ Please visit [awesome-computer-vision](https://github.com/jbhuang0604/awesome-co
 
 - [Neural 3D Scene Reconstruction with the Manhattan-world Assumption](https://arxiv.org/pdf/2205.02836.pdf). Haoyu Guo, et al. CVPR 2022.
 
-- [Neural 3D Reconstruction in the Wild](https://arxiv.org/pdf/2205.12955.pdf). Jiaming Sun, et al. Siggraph 2022.
+- [Neural 3D Reconstruction in the Wild](https://arxiv.org/pdf/2205.12955.pdf). Jiaming Sun, et al. SIGGRAPH 2022.
 
 ### Mesh Texturing
 
