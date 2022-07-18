@@ -4,6 +4,8 @@ A curated list of tutorials, papers, software related to multi-view stereo.
 
 Please visit [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) for a more generic computer vision list.
 
+More multi-view stereo information is available on [Awesome-Learning-MVS](https://github.com/XYZ-qiyh/Awesome-Learning-MVS), [Awesome-PatchMatch-MVS](https://github.com/XYZ-qiyh/Awesome-PatchMatch-MVS), [Awesome-MVS](https://github.com/walsvid/Awesome-MVS).
+
 ## Table of Contents
 
 - [Survey](#survey)
@@ -148,7 +150,7 @@ Please visit [awesome-computer-vision](https://github.com/jbhuang0604/awesome-co
 
 - [Digging into Uncertainty in Self-supervised Multi-view Stereo](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Digging_Into_Uncertainty_in_Self-Supervised_Multi-View_Stereo_ICCV_2021_paper.pdf). Xu, Hongbin, et al. ICCV 2021.
 
-- [RC-MVSNet: Unsupervised Multi-View Stereo with Neural Rendering](https://arxiv.org/pdf/2203.03949.pdf). Di Chang, et al. ArXiv 2022.
+- [RC-MVSNet: Unsupervised Multi-View Stereo with Neural Rendering](https://arxiv.org/pdf/2203.03949.pdf). Di Chang, et al. arXiv 2022.
 
 #### Volumetric Representation
 
@@ -208,7 +210,7 @@ Please visit [awesome-computer-vision](https://github.com/jbhuang0604/awesome-co
 
 - [Neural RGB-D Surface Reconstruction](https://dazinovic.github.io/neural-rgbd-surface-reconstruction/). Dejan Azinović, et al. CVPR 2022.
 
-- [MonoSDF Exploring Monocular Geometric Cues for Neural Implicit Surface Reconstruction](https://niujinshuchong.github.io/monosdf/). Zehao Yu, et al. ArXiv 2022.
+- [MonoSDF Exploring Monocular Geometric Cues for Neural Implicit Surface Reconstruction](https://niujinshuchong.github.io/monosdf/). Zehao Yu, et al. arXiv 2022.
 
 ### Mesh Texturing
 
@@ -246,7 +248,7 @@ Please visit [awesome-computer-vision](https://github.com/jbhuang0604/awesome-co
 
 - [**GigaMVS**: A Benchmark for Ultra-large-scale Gigapixel-level 3D Reconstruction](https://www.computer.org/csdl/journal/tp/5555/01/09547729/1x9Tv1542aY). Zhang, Jianing, et al. PAMI 2021.
 
-- [Multi-sensor large-scale dataset for multi-view 3D reconstruction](https://arxiv.org/pdf/2203.06111.pdf). Oleg Voynov, etal. ArXiv 2022.
+- [Multi-sensor large-scale dataset for multi-view 3D reconstruction](https://arxiv.org/pdf/2203.06111.pdf). Oleg Voynov, etal. arXiv 2022.
 
 ## Open Source
 
