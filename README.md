@@ -130,9 +130,9 @@ Please visit [awesome-computer-vision](https://github.com/jbhuang0604/awesome-co
 
 - [Rethinking Depth Estimation for Multi-View Stereo: A Unified Representation](https://arxiv.org/pdf/2201.01501.pdf). Rui Peng, et al. CVPR 2022.
 
-- [MVSTER: Epipolar Transformer for Efficient Multi-View Stereo](https://arxiv.org/pdf/2204.07346.pdf). Xiaofen Wang, et al. ArXiv 2022.
+- [MVSTER: Epipolar Transformer for Efficient Multi-View Stereo](https://arxiv.org/pdf/2204.07346.pdf). Xiaofen Wang, et al. ECCV 2022.
 
-- [TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers](https://arxiv.org/pdf/2111.14600.pdf). Yikang Ding, et al. ArXiv 2022.
+- [TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers](https://arxiv.org/pdf/2111.14600.pdf). Yikang Ding, et al. CVPR 2022.
 
 > Unsurpervised Learning
 
@@ -170,7 +170,7 @@ Please visit [awesome-computer-vision](https://github.com/jbhuang0604/awesome-co
 
 > Learning-Based Methods
 
-- [Learning a multi-view stereo machine](https://proceedings.neurips.cc/paper/2017/file/9c838d2e45b2ad1094d42f4ef36764f6-Paper.pdf). Kar, Abhishek, Christian Häne, and Jitendra Malik. NeuralIPS 2017.
+- [Learning a multi-view stereo machine](https://proceedings.neurips.cc/paper/2017/file/9c838d2e45b2ad1094d42f4ef36764f6-Paper.pdf). Kar, Abhishek, Christian Häne, and Jitendra Malik. NeurIPS 2017.
 
 - [SurfaceNet: An end-to-end 3d neural network for multiview stereopsis](https://openaccess.thecvf.com/content_ICCV_2017/papers/Ji_SurfaceNet_An_End-To-End_ICCV_2017_paper.pdf). Ji, Mengqi, et al. ICCV 2017.
 
@@ -192,19 +192,23 @@ Please visit [awesome-computer-vision](https://github.com/jbhuang0604/awesome-co
 
 - [Differentiable Volumetric Rendering: Learning implicit 3d representations without 3d supervision](https://openaccess.thecvf.com/content_CVPR_2020/papers/Niemeyer_Differentiable_Volumetric_Rendering_Learning_Implicit_3D_Representations_Without_3D_Supervision_CVPR_2020_paper.pdf). Niemeyer, Michael, et al. CVPR 2020.
 
-- [Multiview neural surface reconstruction by disentangling geometry and appearance](https://proceedings.neurips.cc/paper/2020/file/1a77befc3b608d6ed363567685f70e1e-Paper.pdf). Yariv, Lior, et al. NeuralIPS 2020.
+- [Multiview neural surface reconstruction by disentangling geometry and appearance](https://proceedings.neurips.cc/paper/2020/file/1a77befc3b608d6ed363567685f70e1e-Paper.pdf). Yariv, Lior, et al. NeurIPS 2020.
 
 - [UNISURF: Unifying neural implicit surfaces and radiance fields for multi-view reconstruction](https://openaccess.thecvf.com/content/ICCV2021/papers/Oechsle_UNISURF_Unifying_Neural_Implicit_Surfaces_and_Radiance_Fields_for_Multi-View_ICCV_2021_paper.pdf). Oechsle, Michael, Songyou Peng, and Andreas Geiger. ICCV 2021.
 
-- [NeuS: Learning neural implicit surfaces by volume rendering for multi-view reconstruction](https://arxiv.org/pdf/2106.10689.pdf). Wang, Peng, et al. NeuralIPS 2021.
+- [NeuS: Learning neural implicit surfaces by volume rendering for multi-view reconstruction](https://arxiv.org/pdf/2106.10689.pdf). Wang, Peng, et al. NeurIPS 2021.
 
-- [Volume rendering of neural implicit surfaces](https://proceedings.neurips.cc/paper/2021/file/25e2a30f44898b9f3e978b1786dcd85c-Paper.pdf). Yariv, Lior, et al. NeuralIPS 2021.
+- [Volume rendering of neural implicit surfaces](https://proceedings.neurips.cc/paper/2021/file/25e2a30f44898b9f3e978b1786dcd85c-Paper.pdf). Yariv, Lior, et al. NeurIPS 2021.
 
 - [NerfingMVS: Guided optimization of neural radiance fields for indoor multi-view stereo](https://openaccess.thecvf.com/content/ICCV2021/papers/Wei_NerfingMVS_Guided_Optimization_of_Neural_Radiance_Fields_for_Indoor_Multi-View_ICCV_2021_paper.pdf). Wei, Yi, et al. ICCV 2021.
 
 - [Neural 3D Scene Reconstruction with the Manhattan-world Assumption](https://arxiv.org/pdf/2205.02836.pdf). Haoyu Guo, et al. CVPR 2022.
 
 - [Neural 3D Reconstruction in the Wild](https://arxiv.org/pdf/2205.12955.pdf). Jiaming Sun, et al. SIGGRAPH 2022.
+
+- [Neural RGB-D Surface Reconstruction](https://dazinovic.github.io/neural-rgbd-surface-reconstruction/). Dejan Azinović, et al. CVPR 2022.
+
+- [MonoSDF Exploring Monocular Geometric Cues for Neural Implicit Surface Reconstruction](https://niujinshuchong.github.io/monosdf/). Zehao Yu, et al. ArXiv 2022.
 
 ### Mesh Texturing
 
