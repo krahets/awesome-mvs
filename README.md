@@ -4,7 +4,9 @@ A curated list of tutorials, papers, software related to multi-view stereo.
 
 Please visit [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) for a more generic computer vision list.
 
-More multi-view stereo information is available on [Awesome-Learning-MVS](https://github.com/XYZ-qiyh/Awesome-Learning-MVS), [Awesome-PatchMatch-MVS](https://github.com/XYZ-qiyh/Awesome-PatchMatch-MVS), [Awesome-MVS](https://github.com/walsvid/Awesome-MVS).
+More multi-view stereo papers is available on [Awesome-Learning-MVS](https://github.com/XYZ-qiyh/Awesome-Learning-MVS), [Awesome-PatchMatch-MVS](https://github.com/XYZ-qiyh/Awesome-PatchMatch-MVS), [Awesome-MVS](https://github.com/walsvid/Awesome-MVS).
+
+> Feel free to create a Pull Request to add new papers!
 
 ## Table of Contents
 
@@ -210,6 +212,8 @@ More multi-view stereo information is available on [Awesome-Learning-MVS](https:
 
 - [Neural RGB-D Surface Reconstruction](https://dazinovic.github.io/neural-rgbd-surface-reconstruction/). Dejan Azinović, et al. CVPR 2022.
 
+- [SurRF: Unsupervised Multi-view Stereopsis by Learning Surface Radiance Field](https://pubmed.ncbi.nlm.nih.gov/34591757/) Jinzhi Zhang, et al. TPAMI 2022.
+
 - [MonoSDF Exploring Monocular Geometric Cues for Neural Implicit Surface Reconstruction](https://niujinshuchong.github.io/monosdf/). Zehao Yu, et al. arXiv 2022.
 
 ### Mesh Texturing
@@ -275,7 +279,3 @@ More multi-view stereo information is available on [Awesome-Learning-MVS](https:
 ## License
 
 MIT
-
-## Contribution
-
-Welcome contribution!
