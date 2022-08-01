@@ -51,100 +51,87 @@ More multi-view stereo papers is available on [Awesome-Learning-MVS](https://git
 > Geometry-Based Methods
 
 - [Multi-view stereo revisited](https://grail.cs.washington.edu/wp-content/uploads/2015/08/Goesele-2006-MSR.pdf). Goesele, Michael, Brian Curless, and Steven M. Seitz. CVPR 2006.
-
 - [Multi-view stereo for community photo collections](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.146.2530&rep=rep1&type=pdf). Goesele, Michael, et al. ICCV 2007.
-
 - [Using multiple hypotheses to improve depth-maps for multi-view stereo](https://link.springer.com/content/pdf/10.1007/978-3-540-88682-2_58.pdf). Campbell, Neill DF, et al. ECCV 2008.
-
 - [Towards high-resolution large-scale multi-view stereo](http://www.normalesup.org/~labatut/papers/cvpr2009-towards-high-resolution.pdf). Hiep, Vu Hoang, et al. CVPR 2009.
-
 - [Towards internet-scale multi-view stereo](https://www.microsoft.com/en-us/research/wp-content/uploads/2010/06/Furukawa-CVPR10.pdf). Furukawa, Yasutaka, et al. CVPR 2010.
-
-- [Accurate, Dense, and Robust Multiview Stereopsis](http://www.cs.wustl.edu/~furukawa/papers/pami08a.pdf). Y. Furukawa, J. Ponce. CVPR 2007. PAMI 2010.
-
+- **([PMVS](https://www.di.ens.fr/pmvs/))** [Accurate, Dense, and Robust Multiview Stereopsis](http://www.cs.wustl.edu/~furukawa/papers/pami08a.pdf). Y. Furukawa, J. Ponce. CVPR 2007. PAMI 2010.
 - [Multi-view reconstruction preserving weakly-supported surfaces](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.225.6187&rep=rep1&type=pdf). Jancosek, Michal, and Tomás Pajdla. CVPR 2011.
-
 - [Efficient large-scale multi-view stereo for ultra high-resolution image sets](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.225.6187&rep=rep1&type=pdf). Tola, Engin, Christoph Strecha, and Pascal Fua. MVA 2012.
-
-- [Accurate multiple view 3d reconstruction using patch-based stereo for large-scale scenes](https://islab.ulsan.ac.kr/files/announcement/433/Accurate%20Multiple%20View%203D%20Reconstruction%20Using%20Pathch-Based%20Stereo%20for%20Large-Scale%20Scenes.pdf). Shen, Shuhan. TIP 2013.
-
-- [MVE-A Multi-View Reconstruction Environment](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.673.3254&rep=rep1&type=pdf). Fuhrmann, Simon, Fabian Langguth, and Michael Goesele. GCH 2014.
-
+- **(Similar to [OpenMVS](https://github.com/cdcseacave/openMVS))** [Accurate multiple view 3d reconstruction using patch-based stereo for large-scale scenes](https://islab.ulsan.ac.kr/files/announcement/433/Accurate%20Multiple%20View%203D%20Reconstruction%20Using%20Pathch-Based%20Stereo%20for%20Large-Scale%20Scenes.pdf). Shen, Shuhan. TIP 2013.
+- [**MVE**-A Multi-View Reconstruction Environment](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.673.3254&rep=rep1&type=pdf). Fuhrmann, Simon, Fabian Langguth, and Michael Goesele. GCH 2014.
 - [Patchmatch based joint view selection and depthmap estimation](https://openaccess.thecvf.com/content_cvpr_2014/papers/Zheng_PatchMatch_Based_Joint_2014_CVPR_paper.pdf). Zheng, Enliang, et al. CVPR 2014.
-
-- [Massively parallel multiview stereopsis by surface normal diffusion](https://openaccess.thecvf.com/content_iccv_2015/papers/Galliani_Massively_Parallel_Multiview_ICCV_2015_paper.pdf). Galliani, Silvano, Katrin Lasinger, and Konrad Schindler. ICCV 2015.
-
-- [Pixelwise View Selection for Unstructured Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf). J. L. Schönberger, E. Zheng, M. Pollefeys, J.-M. Frahm. ECCV 2016.
-
-- [Multi-scale geometric consistency guided multi-view stereo](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Multi-Scale_Geometric_Consistency_Guided_Multi-View_Stereo_CVPR_2019_paper.pdf). Xu, Qingshan, and Wenbing Tao. CVPR 2019.
-
-- [TAPA-MVS: Textureless-aware patchmatch multi-view stereo](https://openaccess.thecvf.com/content_ICCV_2019/papers/Romanoni_TAPA-MVS_Textureless-Aware_PAtchMatch_Multi-View_Stereo_ICCV_2019_paper.pdf). Romanoni, Andrea, and Matteo Matteucci. ICCV 2019.
-
+- **([Gipuma](https://github.com/kysucix/gipuma))** [Massively parallel multiview stereopsis by surface normal diffusion](https://openaccess.thecvf.com/content_iccv_2015/papers/Galliani_Massively_Parallel_Multiview_ICCV_2015_paper.pdf). Galliani, Silvano, Katrin Lasinger, and Konrad Schindler. ICCV 2015.
+- **([Colmap](https://github.com/colmap/colmap))** [Pixelwise View Selection for Unstructured Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf). J. L. Schönberger, E. Zheng, M. Pollefeys, J.-M. Frahm. ECCV 2016.
+- [**TAPA-MVS:** Textureless-aware patchmatch multi-view stereo](https://openaccess.thecvf.com/content_ICCV_2019/papers/Romanoni_TAPA-MVS_Textureless-Aware_PAtchMatch_Multi-View_Stereo_ICCV_2019_paper.pdf). Romanoni, Andrea, and Matteo Matteucci. ICCV 2019.
 - [Pyramid multi‐view stereo with local consistency](https://www.researchgate.net/profile/Jie-Liao-5/publication/337249866_Pyramid_Multi-View_Stereo_with_Local_Consistency/links/5dce54a2299bf1b74b426805/Pyramid-Multi-View-Stereo-with-Local-Consistency.pdf). Liao, Jie, et al. Computer Graphics Forum 2019.
+- [**(ACMM)** Multi-scale geometric consistency guided multi-view stereo](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Multi-Scale_Geometric_Consistency_Guided_Multi-View_Stereo_CVPR_2019_paper.pdf). Qingshan Xu, and Wenbing Tao. CVPR 2019.
+- [**(ACMP)** Planar Prior Assisted PatchMatch Multi-View Stereo](https://arxiv.org/abs/1912.11744). Qingshan Xu, and Wenbing Tao. AAAI 2020.
+- [**DP-MVS:** Detail Preserving Multi-View Surface Reconstruction of Large-Scale Scenes](https://www.mdpi.com/2072-4292/13/22/4569). Liyang Zhou, et al. Remote Sens. 2021.
 
 > Surpervised Learning
 
-- [MVSNet: Depth Inference for Unstructured Multi-view Stereo](https://arxiv.org/abs/1804.02505), Y. Yao, Z. Luo, S. Li, T. Fang, L. Quan. ECCV 2018.
+- [**MVSNet:** Depth Inference for Unstructured Multi-view Stereo](https://arxiv.org/abs/1804.02505), Y. Yao, Z. Luo, S. Li, T. Fang, L. Quan. ECCV 2018.
 
-- [DeepMVS: Learning Multi-View Stereopsis](https://github.com/phuang17/DeepMVS), Huang, P. and Matzen, K. and Kopf, J. and Ahuja, N. and Huang, J. CVPR 2018.
+- [**DeepMVS:** Learning Multi-View Stereopsis](https://github.com/phuang17/DeepMVS), Huang, P. and Matzen, K. and Kopf, J. and Ahuja, N. and Huang, J. CVPR 2018.
 
-- [MVDepthNet: Real-time multiview depth estimation neural network](https://arxiv.org/pdf/1807.08563.pdf). Wang, Kaixuan, and Shaojie Shen. 3DV 2018.
+- [**MVDepthNet:** Real-time multiview depth estimation neural network](https://arxiv.org/pdf/1807.08563.pdf). Wang, Kaixuan, and Shaojie Shen. 3DV 2018.
 
-- [Recurrent MVSNet for high-resolution multi-view stereo depth inference](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yao_Recurrent_MVSNet_for_High-Resolution_Multi-View_Stereo_Depth_Inference_CVPR_2019_paper.pdf). Yao, Yao, et al. CVPR 2019.
+- [**Recurrent MVSNet** for high-resolution multi-view stereo depth inference](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yao_Recurrent_MVSNet_for_High-Resolution_Multi-View_Stereo_Depth_Inference_CVPR_2019_paper.pdf). Yao, Yao, et al. CVPR 2019.
 
-- [DPSNet: End-to-end deep plane sweep stereo](https://arxiv.org/pdf/1905.00538.pdf). Im, Sunghoon, et al. arXiv 2019.
+- [**DPSNet:** End-to-end deep plane sweep stereo](https://arxiv.org/pdf/1905.00538.pdf). Im, Sunghoon, et al. arXiv 2019.
 
-- [P-MVSNet: Learning patch-wise matching confidence aggregation for multi-view stereo](https://openaccess.thecvf.com/content_ICCV_2019/papers/Luo_P-MVSNet_Learning_Patch-Wise_Matching_Confidence_Aggregation_for_Multi-View_Stereo_ICCV_2019_paper.pdf). Luo, Keyang, et al. ICCV 2019.
+- [**P-MVSNet:** Learning patch-wise matching confidence aggregation for multi-view stereo](https://openaccess.thecvf.com/content_ICCV_2019/papers/Luo_P-MVSNet_Learning_Patch-Wise_Matching_Confidence_Aggregation_for_Multi-View_Stereo_ICCV_2019_paper.pdf). Luo, Keyang, et al. ICCV 2019.
 
-- [Point-based Multi-view Stereo Network](http://hansf.me/projects/PMVSNet/), Rui Chen, Songfang Han, Jing Xu, Hao Su. ICCV 2019.
+- [**(PointMVSNet)** Point-based Multi-view Stereo Network](http://hansf.me/projects/PMVSNet/), Rui Chen, Songfang Han, Jing Xu, Hao Su. ICCV 2019.
 
 - [Pyramid multi-view stereo net with self-adaptive view aggregation](https://arxiv.org/pdf/1912.03001.pdf?ref=https://githubhelp.com). Yi, Hongwei, et al. ECCV 2020.
 
-- [Cascade cost volume for high-resolution multi-view stereo and stereo matching](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gu_Cascade_Cost_Volume_for_High-Resolution_Multi-View_Stereo_and_Stereo_Matching_CVPR_2020_paper.pdf). Gu, Xiaodong, et al. CVPR 2020.
+- [**(CasMVSNet)** Cascade cost volume for high-resolution multi-view stereo and stereo matching](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gu_Cascade_Cost_Volume_for_High-Resolution_Multi-View_Stereo_and_Stereo_Matching_CVPR_2020_paper.pdf). Gu, Xiaodong, et al. CVPR 2020.
 
-- [Cost volume pyramid based depth inference for multi-view stereo](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Cost_Volume_Pyramid_Based_Depth_Inference_for_Multi-View_Stereo_CVPR_2020_paper.pdf). Yang, Jiayu, et al. CVPR 2020.
+- [**(CVP-MVSNet)** Cost volume pyramid based depth inference for multi-view stereo](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Cost_Volume_Pyramid_Based_Depth_Inference_for_Multi-View_Stereo_CVPR_2020_paper.pdf). Yang, Jiayu, et al. CVPR 2020.
 
-- [Fast-MVSNet: Sparse-to-dense multi-view stereo with learned propagation and gauss-newton refinement](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_Fast-MVSNet_Sparse-to-Dense_Multi-View_Stereo_With_Learned_Propagation_and_Gauss-Newton_Refinement_CVPR_2020_paper.pdf). Yu, Zehao, and Shenghua Gao. CVPR 2020.
+- [**Fast-MVSNet:** Sparse-to-dense multi-view stereo with learned propagation and gauss-newton refinement](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_Fast-MVSNet_Sparse-to-Dense_Multi-View_Stereo_With_Learned_Propagation_and_Gauss-Newton_Refinement_CVPR_2020_paper.pdf). Yu, Zehao, and Shenghua Gao. CVPR 2020.
 
-- [Attention-aware multi-view stereo](https://openaccess.thecvf.com/content_CVPR_2020/papers/Luo_Attention-Aware_Multi-View_Stereo_CVPR_2020_paper.pdf). Luo, Keyang, et al. CVPR 2020.
+- [**(AttMVS)** Attention-aware multi-view stereo](https://openaccess.thecvf.com/content_CVPR_2020/papers/Luo_Attention-Aware_Multi-View_Stereo_CVPR_2020_paper.pdf). Luo, Keyang, et al. CVPR 2020.
 
-- [Visibility-aware multi-view stereo network](https://arxiv.org/pdf/2008.07928.pdf). Zhang, Jingyang, et al. arXiv 2020.
+- [**(Vis-MVSNet)** Visibility-aware multi-view stereo network](https://arxiv.org/pdf/2008.07928.pdf). Zhang, Jingyang, et al. BMVC 2020.
 
 - [Visibility-aware point-based multi-view stereo network](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9076298). Chen, Rui, et al. PAMI 2020.
 
-- [PVSNet: Pixelwise visibility-aware multi-view stereo network](https://arxiv.org/pdf/2007.07714.pdf). Xu, Qingshan, and Wenbing Tao. arXiv 2020.
+- [**PVSNet:** Pixelwise visibility-aware multi-view stereo network](https://arxiv.org/pdf/2007.07714.pdf). Xu, Qingshan, and Wenbing Tao. arXiv 2020.
 
-- [BP-MVSNet: Belief-propagation-layers for multi-view-stereo](https://arxiv.org/pdf/2010.12436.pdf). Sormann, Christian, et al. 3DV 2020.
+- [**BP-MVSNet:** Belief-propagation-layers for multi-view-stereo](https://arxiv.org/pdf/2010.12436.pdf). Sormann, Christian, et al. 3DV 2020.
 
-- [DeepC-MVS: Deep confidence prediction for multi-view stereo reconstruction](https://arxiv.org/pdf/1912.00439). Kuhn, Andreas, et al. 3DV 2020.
+- [**DeepC-MVS:** Deep confidence prediction for multi-view stereo reconstruction](https://arxiv.org/pdf/1912.00439). Kuhn, Andreas, et al. 3DV 2020.
 
 - [Mesh-guided multi-view stereo with pyramid architecture](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Mesh-Guided_Multi-View_Stereo_With_Pyramid_Architecture_CVPR_2020_paper.pdf). Wang, Yuesong, et al. CVPR 2020.
 
-- [PatchmatchNet: Learned multi-view patchmatch stereo](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_PatchmatchNet_Learned_Multi-View_Patchmatch_Stereo_CVPR_2021_paper.pdf). Wang, Fangjinhua, et al. CVPR 2021.
+- [**PatchmatchNet:** Learned multi-view patchmatch stereo](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_PatchmatchNet_Learned_Multi-View_Patchmatch_Stereo_CVPR_2021_paper.pdf). Wang, Fangjinhua, et al. CVPR 2021.
 
-- [AA-RMVSNet: Adaptive aggregation recurrent multi-view stereo network](https://openaccess.thecvf.com/content/ICCV2021/papers/Wei_AA-RMVSNet_Adaptive_Aggregation_Recurrent_Multi-View_Stereo_Network_ICCV_2021_paper.pdf). Wei, Zizhuang, et al. ICCV 2021.
+- [**AA-RMVSNet:** Adaptive aggregation recurrent multi-view stereo network](https://openaccess.thecvf.com/content/ICCV2021/papers/Wei_AA-RMVSNet_Adaptive_Aggregation_Recurrent_Multi-View_Stereo_Network_ICCV_2021_paper.pdf). Wei, Zizhuang, et al. ICCV 2021.
 
-- [PatchMatch-RL: Deep MVS with Pixelwise Depth, Normal, and Visibility](https://openaccess.thecvf.com/content/ICCV2021/papers/Lee_PatchMatch-RL_Deep_MVS_With_Pixelwise_Depth_Normal_and_Visibility_ICCV_2021_paper.pdf). Lee, Jae Yong, et al. ICCV 2021.
+- [**PatchMatch-RL:** Deep MVS with Pixelwise Depth, Normal, and Visibility](https://openaccess.thecvf.com/content/ICCV2021/papers/Lee_PatchMatch-RL_Deep_MVS_With_Pixelwise_Depth_Normal_and_Visibility_ICCV_2021_paper.pdf). Lee, Jae Yong, et al. ICCV 2021.
 
-- [EPP-MVSNet: Epipolar-Assembling Based Depth Prediction for Multi-View Stereo](https://openaccess.thecvf.com/content/ICCV2021/papers/Ma_EPP-MVSNet_Epipolar-Assembling_Based_Depth_Prediction_for_Multi-View_Stereo_ICCV_2021_paper.pdf). Ma, Xinjun, et al. ICCV 2021.
+- [**EPP-MVSNet:** Epipolar-Assembling Based Depth Prediction for Multi-View Stereo](https://openaccess.thecvf.com/content/ICCV2021/papers/Ma_EPP-MVSNet_Epipolar-Assembling_Based_Depth_Prediction_for_Multi-View_Stereo_ICCV_2021_paper.pdf). Ma, Xinjun, et al. ICCV 2021.
 
 - [Deep multi-view stereo gone wild](https://arxiv.org/pdf/2104.15119.pdf). Darmon, François, et al. 3DV 2021.
 
-- [Generalized Binary Search Network for Highly-Efficient Multi-View Stereo](https://arxiv.org/pdf/2112.02338.pdf). Zhenxing Mi, Di Chang, Dan Xu. CVPR 2022.
+- [**(GBiNet)** Generalized Binary Search Network for Highly-Efficient Multi-View Stereo](https://arxiv.org/pdf/2112.02338.pdf). Zhenxing Mi, Di Chang, Dan Xu. CVPR 2022.
 
-- [Rethinking Depth Estimation for Multi-View Stereo: A Unified Representation](https://arxiv.org/pdf/2201.01501.pdf). Rui Peng, et al. CVPR 2022.
+- [**(UniMVSNet)** Rethinking Depth Estimation for Multi-View Stereo: A Unified Representation](https://arxiv.org/pdf/2201.01501.pdf). Rui Peng, et al. CVPR 2022.
 
-- [MVSTER: Epipolar Transformer for Efficient Multi-View Stereo](https://arxiv.org/pdf/2204.07346.pdf). Xiaofen Wang, et al. ECCV 2022.
+- [**MVSTER:** Epipolar Transformer for Efficient Multi-View Stereo](https://arxiv.org/pdf/2204.07346.pdf). Xiaofen Wang, et al. ECCV 2022.
 
-- [TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers](https://arxiv.org/pdf/2111.14600.pdf). Yikang Ding, et al. CVPR 2022.
+- [**TransMVSNet:** Global Context-aware Multi-view Stereo Network with Transformers](https://arxiv.org/pdf/2111.14600.pdf). Yikang Ding, et al. CVPR 2022.
 
 > Unsurpervised Learning
 
 - [Learning unsupervised multi-view stereopsis via robust photometric consistency](https://arxiv.org/pdf/1905.02706.pdf). Khot, Tejas, et al. arXiv 2019.
 
-- [MVS2: Deep unsupervised multi-view stereo with multi-view symmetry](https://arxiv.org/pdf/1908.11526.pdf). Dai, Yuchao, et al. 3DV 2019.
+- [**MVS2:** Deep unsupervised multi-view stereo with multi-view symmetry](https://arxiv.org/pdf/1908.11526.pdf). Dai, Yuchao, et al. 3DV 2019.
 
-- [Mˆ3VSNet: Unsupervised multi-metric multi-view stereo network](https://arxiv.org/pdf/2004.09722.pdf). Huang, Baichuan, et al. ICIP 2021.
+- [**Mˆ3VSNet:** Unsupervised multi-metric multi-view stereo network](https://arxiv.org/pdf/2004.09722.pdf). Huang, Baichuan, et al. ICIP 2021.
 
 - [Self-supervised multi-view stereo via effective co-segmentation and data-augmentation](https://www.aaai.org/AAAI21Papers/AAAI-2549.XuH.pdf). Xu, Hongbin, et al. AAAI 2021.
 
@@ -152,13 +139,13 @@ More multi-view stereo papers is available on [Awesome-Learning-MVS](https://git
 
 - [Digging into Uncertainty in Self-supervised Multi-view Stereo](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Digging_Into_Uncertainty_in_Self-Supervised_Multi-View_Stereo_ICCV_2021_paper.pdf). Xu, Hongbin, et al. ICCV 2021.
 
-- [RC-MVSNet: Unsupervised Multi-View Stereo with Neural Rendering](https://arxiv.org/pdf/2203.03949.pdf). Di Chang, et al. arXiv 2022.
+- [**RC-MVSNet:** Unsupervised Multi-View Stereo with Neural Rendering](https://arxiv.org/pdf/2203.03949.pdf). Di Chang, et al. arXiv 2022.
 
 #### Volumetric Representation
 
 > Geometry-Based Methods
 
-- [A volumetric method for building complex models from range images](https://dl.acm.org/doi/pdf/10.1145/237170.237269?casa_token=VkAZIffR2GUAAAAA:uWqJ8-28go2eXT0yNn03w17uggY0FtN-jix-Ln1uR5oWm5e6gM6L_zqJtcVsIUH0YOoM1k9FmmI). Curless, Brian, and Marc Levoy. PACMCGIT 1996.
+- [**(VRIP)** A volumetric method for building complex models from range images](https://dl.acm.org/doi/pdf/10.1145/237170.237269?casa_token=VkAZIffR2GUAAAAA:uWqJ8-28go2eXT0yNn03w17uggY0FtN-jix-Ln1uR5oWm5e6gM6L_zqJtcVsIUH0YOoM1k9FmmI). Curless, Brian, and Marc Levoy. PACMCGIT 1996.
 
 - [Reliable surface reconstruction from multiple range images](https://link.springer.com/content/pdf/10.1007/BFb0015528.pdf). Hilton, Adrian, et al. ECCV 1996.
 
@@ -166,61 +153,61 @@ More multi-view stereo papers is available on [Awesome-Learning-MVS](https://git
 
 - [A Theory of Shape by Space Carving](https://www.cs.toronto.edu/~kyros/pubs/00.ijcv.carve.pdf). Kiriakos N. Kutulakos, S. Seitz. IJCV 2000.
 
-- [KinectFusion: Real-time dense surface mapping and tracking](https://www.semanticscholar.org/paper/e2975deb809f35bd47ac3de34e348675a0cfb3f6). Richard A. Newcombe, S. Izadi, Otmar Hilliges, D. Molyneaux, David Kim, A. Davison, P. Kohli, J. Shotton, Steve Hodges, A. Fitzgibbon. ISMAR 2011.
+- [**KinectFusion:** Real-time dense surface mapping and tracking](https://www.semanticscholar.org/paper/e2975deb809f35bd47ac3de34e348675a0cfb3f6). Richard A. Newcombe, S. Izadi, Otmar Hilliges, D. Molyneaux, David Kim, A. Davison, P. Kohli, J. Shotton, Steve Hodges, A. Fitzgibbon. ISMAR 2011.
 
-- [Real-time 3D reconstruction at scale using voxel hashing](http://graphics.stanford.edu/~niessner/papers/2013/4hashing/niessner2013hashing.pdf). M. Nießner, M. Zollhöfer, S. Izadi, M. Stamminger. ACM Trans. Graph 2013.
+- [**(VoxelHashing)** Real-time 3D reconstruction at scale using voxel hashing](http://graphics.stanford.edu/~niessner/papers/2013/4hashing/niessner2013hashing.pdf). M. Nießner, M. Zollhöfer, S. Izadi, M. Stamminger. ACM Trans. Graph 2013.
 
-- [BundleFusion: real-time globally consistent 3D reconstruction using on-the-fly surface re-integration](https://arxiv.org/pdf/1604.01093.pdf). Angela Dai, M. Nießner, M. Zollhöfer, S. Izadi, C. Theobalt. TOGS 2016.
+- [**BundleFusion:** real-time globally consistent 3D reconstruction using on-the-fly surface re-integration](https://arxiv.org/pdf/1604.01093.pdf). Angela Dai, M. Nießner, M. Zollhöfer, S. Izadi, C. Theobalt. TOGS 2016.
 
 > Learning-Based Methods
 
 - [Learning a multi-view stereo machine](https://proceedings.neurips.cc/paper/2017/file/9c838d2e45b2ad1094d42f4ef36764f6-Paper.pdf). Kar, Abhishek, Christian Häne, and Jitendra Malik. NeurIPS 2017.
 
-- [SurfaceNet: An end-to-end 3d neural network for multiview stereopsis](https://openaccess.thecvf.com/content_ICCV_2017/papers/Ji_SurfaceNet_An_End-To-End_ICCV_2017_paper.pdf). Ji, Mengqi, et al. ICCV 2017.
+- [**SurfaceNet:** An end-to-end 3d neural network for multiview stereopsis](https://openaccess.thecvf.com/content_ICCV_2017/papers/Ji_SurfaceNet_An_End-To-End_ICCV_2017_paper.pdf). Ji, Mengqi, et al. ICCV 2017.
 
-- [RayNet: Learning Volumetric 3D Reconstruction with Ray Potentials](https://avg.is.tuebingen.mpg.de/publications/paschalidou2018cvpr), D. Paschalidou and A. O. Ulusoy and C. Schmitt and L. Gool and A. Geiger. CVPR 2018.
+- [**RayNet:** Learning Volumetric 3D Reconstruction with Ray Potentials](https://avg.is.tuebingen.mpg.de/publications/paschalidou2018cvpr), D. Paschalidou and A. O. Ulusoy and C. Schmitt and L. Gool and A. Geiger. CVPR 2018.
 
-- [Atlas: End-to-end 3d scene reconstruction from posed images](https://arxiv.org/pdf/2003.10432.pdf?ref=https://githubhelp.com). Murez, Zak, et al. ECCV 2020.
+- [**Atlas:** End-to-end 3d scene reconstruction from posed images](https://arxiv.org/pdf/2003.10432.pdf?ref=https://githubhelp.com). Murez, Zak, et al. ECCV 2020.
 
-- [RoutedFusion: Learning real-time depth map fusion](https://openaccess.thecvf.com/content_CVPR_2020/papers/Weder_RoutedFusion_Learning_Real-Time_Depth_Map_Fusion_CVPR_2020_paper.pdf). Weder, Silvan, et al. CVPR 2020.
+- [**RoutedFusion:** Learning real-time depth map fusion](https://openaccess.thecvf.com/content_CVPR_2020/papers/Weder_RoutedFusion_Learning_Real-Time_Depth_Map_Fusion_CVPR_2020_paper.pdf). Weder, Silvan, et al. CVPR 2020.
 
-- [SurfaceNet+: An end-to-end 3D neural network for very sparse multi-view stereopsis](https://arxiv.org/pdf/2005.12690.pdf?ref=https://githubhelp.com). Ji, Mengqi, et al. PAMI 2020.
+- [**SurfaceNet+:** An end-to-end 3D neural network for very sparse multi-view stereopsis](https://arxiv.org/pdf/2005.12690.pdf?ref=https://githubhelp.com). Ji, Mengqi, et al. PAMI 2020.
 
-- [NeuralRecon: Real-time coherent 3D reconstruction from monocular video](http://openaccess.thecvf.com/content/CVPR2021/papers/Sun_NeuralRecon_Real-Time_Coherent_3D_Reconstruction_From_Monocular_Video_CVPR_2021_paper.pdf). Sun, Jiaming, et al. CVPR 2021.
+- [**NeuralRecon:** Real-time coherent 3D reconstruction from monocular video](http://openaccess.thecvf.com/content/CVPR2021/papers/Sun_NeuralRecon_Real-Time_Coherent_3D_Reconstruction_From_Monocular_Video_CVPR_2021_paper.pdf). Sun, Jiaming, et al. CVPR 2021.
 
-- [NeuralFusion: Online depth fusion in latent space](https://openaccess.thecvf.com/content/CVPR2021/papers/Weder_NeuralFusion_Online_Depth_Fusion_in_Latent_Space_CVPR_2021_paper.pdf). Weder, Silvan, et al. CVPR 2021.
+- [**NeuralFusion:** Online depth fusion in latent space](https://openaccess.thecvf.com/content/CVPR2021/papers/Weder_NeuralFusion_Online_Depth_Fusion_in_Latent_Space_CVPR_2021_paper.pdf). Weder, Silvan, et al. CVPR 2021.
 
-- [PlanarRecon: Real-time 3D Plane Detection and Reconstruction from Posed Monocular Videos](https://arxiv.org/pdf/2206.07710.pdf). Yuming Xie. CVPR 2022.
+- [**PlanarRecon:** Real-time 3D Plane Detection and Reconstruction from Posed Monocular Videos](https://arxiv.org/pdf/2206.07710.pdf). Yuming Xie. CVPR 2022.
 
 #### Neural Implicit Representation
 
-- [Differentiable Volumetric Rendering: Learning implicit 3d representations without 3d supervision](https://openaccess.thecvf.com/content_CVPR_2020/papers/Niemeyer_Differentiable_Volumetric_Rendering_Learning_Implicit_3D_Representations_Without_3D_Supervision_CVPR_2020_paper.pdf). Niemeyer, Michael, et al. CVPR 2020.
+- [**(DVR)** Differentiable Volumetric Rendering: Learning implicit 3d representations without 3d supervision](https://openaccess.thecvf.com/content_CVPR_2020/papers/Niemeyer_Differentiable_Volumetric_Rendering_Learning_Implicit_3D_Representations_Without_3D_Supervision_CVPR_2020_paper.pdf). Niemeyer, Michael, et al. CVPR 2020.
 
-- [Multiview neural surface reconstruction by disentangling geometry and appearance](https://proceedings.neurips.cc/paper/2020/file/1a77befc3b608d6ed363567685f70e1e-Paper.pdf). Yariv, Lior, et al. NeurIPS 2020.
+- [**(IDR)** Multiview neural surface reconstruction by disentangling geometry and appearance](https://proceedings.neurips.cc/paper/2020/file/1a77befc3b608d6ed363567685f70e1e-Paper.pdf). Yariv, Lior, et al. NeurIPS 2020.
 
-- [UNISURF: Unifying neural implicit surfaces and radiance fields for multi-view reconstruction](https://openaccess.thecvf.com/content/ICCV2021/papers/Oechsle_UNISURF_Unifying_Neural_Implicit_Surfaces_and_Radiance_Fields_for_Multi-View_ICCV_2021_paper.pdf). Oechsle, Michael, Songyou Peng, and Andreas Geiger. ICCV 2021.
+- [**UNISURF:** Unifying neural implicit surfaces and radiance fields for multi-view reconstruction](https://openaccess.thecvf.com/content/ICCV2021/papers/Oechsle_UNISURF_Unifying_Neural_Implicit_Surfaces_and_Radiance_Fields_for_Multi-View_ICCV_2021_paper.pdf). Oechsle, Michael, Songyou Peng, and Andreas Geiger. ICCV 2021.
 
-- [NeuS: Learning neural implicit surfaces by volume rendering for multi-view reconstruction](https://arxiv.org/pdf/2106.10689.pdf). Wang, Peng, et al. NeurIPS 2021.
+- [**NeuS:** Learning neural implicit surfaces by volume rendering for multi-view reconstruction](https://arxiv.org/pdf/2106.10689.pdf). Wang, Peng, et al. NeurIPS 2021.
 
-- [Volume rendering of neural implicit surfaces](https://proceedings.neurips.cc/paper/2021/file/25e2a30f44898b9f3e978b1786dcd85c-Paper.pdf). Yariv, Lior, et al. NeurIPS 2021.
+- [**(VolSDF)** Volume rendering of neural implicit surfaces](https://proceedings.neurips.cc/paper/2021/file/25e2a30f44898b9f3e978b1786dcd85c-Paper.pdf). Yariv, Lior, et al. NeurIPS 2021.
 
-- [NerfingMVS: Guided optimization of neural radiance fields for indoor multi-view stereo](https://openaccess.thecvf.com/content/ICCV2021/papers/Wei_NerfingMVS_Guided_Optimization_of_Neural_Radiance_Fields_for_Indoor_Multi-View_ICCV_2021_paper.pdf). Wei, Yi, et al. ICCV 2021.
+- [**NerfingMVS:** Guided optimization of neural radiance fields for indoor multi-view stereo](https://openaccess.thecvf.com/content/ICCV2021/papers/Wei_NerfingMVS_Guided_Optimization_of_Neural_Radiance_Fields_for_Indoor_Multi-View_ICCV_2021_paper.pdf). Wei, Yi, et al. ICCV 2021.
 
-- [Neural 3D Scene Reconstruction with the Manhattan-world Assumption](https://arxiv.org/pdf/2205.02836.pdf). Haoyu Guo, et al. CVPR 2022.
+- [**(ManhattanSDF)** Neural 3D Scene Reconstruction with the Manhattan-world Assumption](https://arxiv.org/pdf/2205.02836.pdf). Haoyu Guo, et al. CVPR 2022.
 
-- [Neural 3D Reconstruction in the Wild](https://arxiv.org/pdf/2205.12955.pdf). Jiaming Sun, et al. SIGGRAPH 2022.
+- [**(NeuralRecon-W)** Neural 3D Reconstruction in the Wild](https://arxiv.org/pdf/2205.12955.pdf). Jiaming Sun, et al. SIGGRAPH 2022.
 
 - [Neural RGB-D Surface Reconstruction](https://dazinovic.github.io/neural-rgbd-surface-reconstruction/). Dejan Azinović, et al. CVPR 2022.
 
-- [SurRF: Unsupervised Multi-view Stereopsis by Learning Surface Radiance Field](https://pubmed.ncbi.nlm.nih.gov/34591757/) Jinzhi Zhang, et al. TPAMI 2022.
+- [**SurRF:** Unsupervised Multi-view Stereopsis by Learning Surface Radiance Field](https://pubmed.ncbi.nlm.nih.gov/34591757/) Jinzhi Zhang, et al. TPAMI 2022.
 
-- [MonoSDF Exploring Monocular Geometric Cues for Neural Implicit Surface Reconstruction](https://niujinshuchong.github.io/monosdf/). Zehao Yu, et al. arXiv 2022.
+- [**MonoSDF:** Exploring Monocular Geometric Cues for Neural Implicit Surface Reconstruction](https://niujinshuchong.github.io/monosdf/). Zehao Yu, et al. arXiv 2022.
 
 ### Mesh Texturing
 
 - [Seamless image-based texture atlases using multi-band blending](http://imagine.enpc.fr/publications/papers/ICPR08a.pdf). C. Allène, J-P. Pons and R. Keriven. ICPR 2008.
 
-- [Let There Be Color! - Large-Scale Texturing of 3D Reconstructions](http://www.gcc.tu-darmstadt.de/home/proj/texrecon/). M. Waechter, N. Moehrle, M. Goesele. ECCV 2014.
+- **([mvs-texturing](https://github.com/nmoehrle/mvs-texturing))** [**Let There Be Color!** - Large-Scale Texturing of 3D Reconstructions](http://www.gcc.tu-darmstadt.de/home/proj/texrecon/). M. Waechter, N. Moehrle, M. Goesele. ECCV 2014.
 
 - [Texture Mapping for 3D Reconstruction with RGB-D Sensor](https://openaccess.thecvf.com/content_cvpr_2018/papers/Fu_Texture_Mapping_for_CVPR_2018_paper.pdf). Yanping Fu, Qingan Yan, Long Yang, Jie Liao, Chunxia Xiao. CVPR 2018.
 
