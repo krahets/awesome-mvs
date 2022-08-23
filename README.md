@@ -239,7 +239,9 @@ More multi-view stereo papers is available on [Awesome-Learning-MVS](https://git
 
 - [**GigaMVS**: A Benchmark for Ultra-large-scale Gigapixel-level 3D Reconstruction](https://www.computer.org/csdl/journal/tp/5555/01/09547729/1x9Tv1542aY). Zhang, Jianing, et al. PAMI 2021.
 
-- [Multi-sensor large-scale dataset for multi-view 3D reconstruction](https://arxiv.org/pdf/2203.06111.pdf). Oleg Voynov, etal. arXiv 2022.
+- [Multi-sensor large-scale dataset for multi-view 3D reconstruction](https://arxiv.org/pdf/2203.06111.pdf). Oleg Voynov, et al. arXiv 2022.
+
+- [Capturing, Reconstructing, and Simulating: the UrbanScene3D Dataset](https://vcc.tech/UrbanScene3D/). Liqiang Lin, et al. ECCV 2022.
 
 ## Open Source
 
