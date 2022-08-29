@@ -156,6 +156,8 @@ More multi-view stereo papers is available on [Awesome-Learning-MVS](https://git
 
 - [**(VoxelHashing)** Real-time 3D reconstruction at scale using voxel hashing](http://graphics.stanford.edu/~niessner/papers/2013/4hashing/niessner2013hashing.pdf). M. Nießner, M. Zollhöfer, S. Izadi, M. Stamminger. ACM Trans. Graph 2013.
 
+- [**ElasticFusion:** Dense SLAM Without A Pose Graph](https://www.semanticscholar.org/paper/ElasticFusion%3A-Dense-SLAM-Without-A-Pose-Graph-Whelan-Leutenegger/74f5a632a9966823919dfc91d65ce273a973294c). Thomas Whelan, et al. Robotics: Science and Systems 2015.
+
 - [**BundleFusion:** real-time globally consistent 3D reconstruction using on-the-fly surface re-integration](https://arxiv.org/pdf/1604.01093.pdf). Angela Dai, M. Nießner, M. Zollhöfer, S. Izadi, C. Theobalt. TOGS 2016.
 
 > Learning-Based Methods
