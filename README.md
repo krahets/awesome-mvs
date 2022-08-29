@@ -22,7 +22,6 @@ More multi-view stereo papers is available on [Awesome-Learning-MVS](https://git
 - [Open Source](#open-source)
 - [Commercial Software](#commercial-software)
 - [License](#license)
-- [Contribution](#contribution)
 
 ## Tutorial
 
@@ -215,13 +214,19 @@ More multi-view stereo papers is available on [Awesome-Learning-MVS](https://git
 
 - [Next Best View Planning for Active Model Improvement](http://www.bmva.org/bmvc/2009/Papers/Paper436/Paper436.pdf). Dunn, Enrique, and Jan-Michael Frahm. BMVC 2009.
 
+- [Receding Horizon "Next-Best-View" Planner for 3D Exploration](https://www.semanticscholar.org/paper/Receding-Horizon-%22Next-Best-View%22-Planner-for-3D-Bircher-Kamel/5a1791a0a31f2ae051926ebcabd324286dec7105). Andreas Bircher, et al. ICRA 2016.
+
 - [Submodular Trajectory Optimization for Aerial 3D Scanning](http://graphics.stanford.edu/papers/aerial_scanning/). M. Roberts, A. Truong, D. Dey, S. Sinha, A. Kapoor, N. Joshi, P. Hanrahan. 2017.
 
 - [Aerial path planning for urban scene reconstruction: A continuous optimization method and benchmark](https://repository.kaust.edu.sa/bitstream/handle/10754/628907/Smith2018UAVPathPlanning.pdf?sequence=1&isAllowed=y). Smith, Neil, et al. 2018.
 
-- [Plan3D: Viewpoint and trajectory optimization for aerial multi-view stereo reconstruction](https://dl.acm.org/doi/pdf/10.1145/3233794?casa_token=UbS5wvWLymcAAAAA:oNXMUe6rYZkvV3prNJJyQ0yKvnicgswp2vWweqOjL6c5ZdkaFRGjpx-dyN-PuH-dqL7fclGj6iQ). Hepp, Benjamin, Matthias Nießner, and Otmar Hilliges. ACM TOG 2018.
+- [**Plan3D:** Viewpoint and trajectory optimization for aerial multi-view stereo reconstruction](https://dl.acm.org/doi/pdf/10.1145/3233794?casa_token=UbS5wvWLymcAAAAA:oNXMUe6rYZkvV3prNJJyQ0yKvnicgswp2vWweqOjL6c5ZdkaFRGjpx-dyN-PuH-dqL7fclGj6iQ). Hepp, Benjamin, Matthias Nießner, and Otmar Hilliges. ACM TOG 2018.
+
+- [**Learn-to-Score:** Efficient 3D Scene Exploration by Predicting View Utility](https://arxiv.org/pdf/1806.10354.pdf). Benjamin Hepp, et al. ECCV 2018.
 
 - [Automatic and semantically-aware 3D UAV flight planning for image-based 3D reconstruction](https://www.mdpi.com/2072-4292/11/13/1550/htm). Koch, Tobias, Marco Körner, and Friedrich Fraundorfer. Remote Sensing 2019.
+
+- [Next-Best View Policy for 3D Reconstruction](https://arxiv.org/pdf/2008.12664.pdf). Daryl Peralta, et al. ECCV Workshop 2020.
 
 - [Offsite aerial path planning for efficient urban scene reconstruction](https://dl.acm.org/doi/pdf/10.1145/3414685.3417791). Zhou, Xiaohui, et al. ACM TOG 2020.
 
